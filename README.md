@@ -6,7 +6,7 @@ My name is Luc Mahoux and I am a half-French, half-Japanese student currently st
  
 In my free time, I enjoy staying up to date on the latest developments in the tech industry and exploring new ways to harness the power of technology for the greater good. I believe that technology has the ability to make the world a better place, and I am dedicated to using my skills and knowledge to make that happen. Whether it's through collaborating with other students on exciting projects or learning about the latest advancements in artificial intelligence, I am always looking for ways to grow and make a positive impact.
 
-I am excited to connect with others in the computer science field and am open to new opportunities to learn and grow. Let's connect on LinkedIn and discuss how we can work together to push the boundaries of technology and culture!
+I am excited to connect with others in the computer science field and am open to new opportunities to learn and grow.
 
 Google Developer Student Clubs EPITA: https://gdsc.community.dev/epita/
 
