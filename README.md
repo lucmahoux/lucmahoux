@@ -1,5 +1,6 @@
-# Welcome to my GitHub Profile!
-
+<div align="center">
+ <h1> Welcome to my GitHub Profile! </h1>
+</div>
 Hi there 👋
 
 My name is Luc Mahoux and I am a half-French, half-Japanese student currently studying computer science at EPITA. As the lead of the Google Developer Student Clubs at my school, I am passionate about using technology to create innovative and impactful solutions 💫
@@ -10,34 +11,42 @@ I am excited to connect with others in the computer science field and am open to
 
 Google Developer Student Clubs EPITA: https://gdsc.community.dev/epita/
 
-## Skills
+## ⚡ Skills
+<div align="center">
+  
+            
+          
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>&nbsp;     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Android Studio" alt="AS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;      
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash"  alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+</div>
 
-<p align="center">
-    <a href="https://github.com/lucmahoux?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-    <a href="https://github.com/lucmahoux?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-   <!-- <a href="https://github.com/lucmahoux?tab=repositories&language=c" target="_blank"><img alt="C" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a> 
-    <a href="https://github.com/lucmahoux?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a> -->
-</p>
-
-## Social Medias
+## 📫 Social Medias
 
 <p align="center">
     <a href="https://github.com/lucmahoux" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@lucmahoux-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/lucmahoux" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/luc-mahoux" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 </p>
 
 ## &#x1f4c8; GitHub Stats
 
+<p align="center">
 <a href="https://github.com/lucmahoux/lucmahoux">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucmahoux&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=4169e1&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/lucmahoux/lucmahoux">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucmahoux&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4169e1&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
-
-<a href="https://github.com/lucmahoux/Sudoku-OCR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucmahoux&repo=Sudoku-OCR&title_color=ffffff&text_color=c9cacc&icon_color=4169e1&bg_color=1d1f21" />
-</a>
+ </p>
 
 
 <!--a href="https://github.com/lucmahoux/PROJECTNAME">
