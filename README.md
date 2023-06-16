@@ -38,20 +38,23 @@ Google Developer Student Clubs EPITA: https://gdsc.community.dev/epita/
     <a href="https://www.linkedin.com/in/luc-mahoux" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 </p>
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; Last 2 weeks stats
 
-<p align="center">
-<a href="https://github.com/lucmahoux/lucmahoux">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucmahoux&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=4169e1&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/lucmahoux/lucmahoux">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucmahoux&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4169e1&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
- </p>
+<!--START_SECTION:waka-->
+
+```txt
+C++        15 hrs 8 mins   ███████████████░░░░░░░░░░   59.37 %
+Java       5 hrs 1 min     █████░░░░░░░░░░░░░░░░░░░░   19.74 %
+Python     2 hrs 39 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+JSON       32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+CMake      26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+```
+
+<!--END_SECTION:waka-->
 
 
 <!--a href="https://github.com/lucmahoux/PROJECTNAME">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucmahoux&repo=PROJECTNAME&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lucmahoux.lucmahoux&left_color=blue&right_color=black)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flucmahoux&label=Visitors&countColor=%2337d67a)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Flucmahoux)
 
