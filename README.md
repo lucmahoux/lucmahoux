@@ -43,11 +43,11 @@ Google Developer Student Clubs EPITA: https://gdsc.community.dev/epita/
 <!--START_SECTION:waka-->
 
 ```txt
-Java             6 hrs 38 mins   █████████████▓░░░░░░░░░░░   55.09 %
-C++              2 hrs 58 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.69 %
-ObjectiveC       58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-XML              22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-JSON             21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Java             6 hrs 38 mins   ██████████████▓░░░░░░░░░░   58.99 %
+C++              2 hrs 42 mins   ██████░░░░░░░░░░░░░░░░░░░   24.11 %
+ObjectiveC       28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+XML              22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+JSON             18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 ```
 
 <!--END_SECTION:waka-->
