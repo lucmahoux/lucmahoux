@@ -44,11 +44,11 @@ Google Developer Student Clubs EPITA: https://gdsc.community.dev/epita/
 <!--START_SECTION:waka-->
 
 ```txt
-Dart             5 hrs 49 mins   ████████████▒░░░░░░░░░░░░   48.80 %
-TypeScript       2 hrs 30 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.05 %
-C++              1 hr 43 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
-Other            49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-YAML             20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Dart             5 hrs 40 mins   ███████████░░░░░░░░░░░░░░   43.80 %
+C++              2 hrs 42 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.89 %
+TypeScript       2 hrs 30 mins   █████░░░░░░░░░░░░░░░░░░░░   19.34 %
+Other            49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+Python           27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
 ```
 
 <!--END_SECTION:waka-->
