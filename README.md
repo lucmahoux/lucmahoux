@@ -44,11 +44,11 @@ Google Developer Student Clubs EPITA: https://gdsc.community.dev/epita/
 <!--START_SECTION:waka-->
 
 ```txt
-C#               57 mins         ████████████████████▒░░░░   81.73 %
-XML              7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
-Csproj           2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-JSON             2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+C#               1 hr 11 mins    ████████████████████▓░░░░   82.61 %
+XML              9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
+Csproj           2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+JSON             2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
