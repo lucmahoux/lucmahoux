@@ -44,7 +44,9 @@ Google Developer Student Clubs EPITA: https://gdsc.community.dev/epita/
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Terraform   9 mins          ████████████████████████▒   96.74 %
+C#          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+SQL         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
