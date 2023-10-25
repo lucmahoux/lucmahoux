@@ -44,9 +44,11 @@ Google Developer Student Clubs EPITA: https://gdsc.community.dev/epita/
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform   9 mins          ████████████████████████▒   96.74 %
-C#          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-SQL         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Terraform   9 mins          ███████████▒░░░░░░░░░░░░░   45.61 %
+JSON        7 mins          █████████▒░░░░░░░░░░░░░░░   37.74 %
+C#          2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 %
+YAML        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+XML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
