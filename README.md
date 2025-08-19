@@ -30,23 +30,16 @@
 
 Hi there 👋
 
-I'm Luc — a Software Engineer, SRE, and Entrepreneur passionate about building powerful products.
+I'm Luc — half-French, half-Japanese builder
 
 ### 🛠️ Currently
-- SRE @ Theodo Cloud — managing Kubernetes infra, GitOps with ArgoCD, and automation for 60+ client platforms.
-- COO & Co-founder @ FueGo. — a travel-tech startup blending AI to reinvent how people plan their journeys.
+- Cofounder @ minitap, building AI agents for mobile use
 - Fellow @ EWOR (0.1% acceptance)
-
-### 🧠 I care about
-- Building incredible products
-- Delivering user value fast
-- Tackling technical challenges
-- Continuously learn and improve
 
 ### ⭐️ Interests
 
 - Fashion enjoyer 🇫🇷 🇯🇵 
-- Martials Arts 🥋
+- Martial Arts 🥋
 - Sushi and ramen for life 🍣
 
 
